@@ -1,3 +1,3 @@
 # PROJETO INTEGRADO MULTIDISCIPLINAR II
 
-Desenvolvimento de um sistema composto por múltiplos programas em modo console para otimizar as operações de um hortifruti.
+Esse projeto é um desenvolvimento de um sistema composto por múltiplos programas para otimizar as operações de um hortifruti.
