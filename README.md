@@ -53,6 +53,13 @@ gcc -o hortifruti main.c
 ./hortifruti
 ```
 
+4. **Senha padrão do sistema:**
+
+```
+admin
+secreta
+```
+
 ## Estrutura do Projeto
 
 ``menuPrincipal/`` → Arquivos do menu principal
