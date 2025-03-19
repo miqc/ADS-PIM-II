@@ -1,0 +1,560 @@
+# depslib dependency file v1.0
+1727749219 source:c:\users\micael\desktop\projetos em c\pim\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+	"login//menuLogin.h"
+	"menuPrincipal//menu.h"
+	"gerenciamentoDeProdutos//menuGereProduto.h"
+	"gerenciamentoDeVendas//menuGereVendas.h"
+	"gerenciamentoDeFornecedores//menuGereFornecedores.h"
+	"gerenciamentoDeFuncionarios//menuGereFuncionarios.h"
+
+1727732115 c:\users\micael\desktop\projetos em c\pim\pim\teste.h
+
+1727745399 c:\users\micael\desktop\projetos em c\pim\pim\menulogin.h
+
+1727742773 c:\users\micael\desktop\projetos em c\pim\pim\menu.h
+
+1727733388 c:\users\micael\desktop\projetos em c\pim\pim\menucadproduto.h
+
+1727745818 c:\users\micael\desktop\projetos em c\pim\pim\menugereproduto.h
+
+1727741238 c:\users\micael\desktop\projetos em c\pim\pim\menugerevendas.h
+
+1727741238 c:\users\micael\desktop\projetos em c\pim\pim\menugerefonecedores.h
+
+1727741238 c:\users\micael\desktop\projetos em c\pim\pim\menugerefuncionarios.h
+
+1727747040 c:\users\micael\desktop\projetos em c\pim\pim\login\\menulogin.h
+
+1727747040 c:\users\micael\desktop\projetos em c\pim\pim\menuprincipal\\menu.h
+
+1727747040 c:\users\micael\desktop\projetos em c\pim\pim\gerenciamentodeprodutos\\menugereproduto.h
+
+1727747040 c:\users\micael\desktop\projetos em c\pim\pim\gerenciamentodevendas\\menugerevendas.h
+
+1727749313 c:\users\micael\desktop\projetos em c\pim\pim\gerenciamentodefornecedores\\menugerefornecedores.h
+
+1727747040 c:\users\micael\desktop\projetos em c\pim\pim\gerenciamentodefuncionarios\\menugerefuncionarios.h
+
+1727788508 source:c:\users\micad\onedrive\documentos\projetos em c\pim\pim2-main\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+	"login/menuLogin.h"
+	"menuPrincipal/menu.h"
+	"gerenciamentoDeProdutos/menuGereProduto.h"
+	"gerenciamentoDeVendas/menuGereVendas.h"
+	"gerenciamentoDeFornecedores/menuGereFornecedores.h"
+	"gerenciamentoDeFuncionarios/menuGereFuncionarios.h"
+
+1727871156 c:\users\micad\onedrive\documentos\projetos em c\pim\pim2-main\pim\login\menulogin.h
+
+1727871156 c:\users\micad\onedrive\documentos\projetos em c\pim\pim2-main\pim\menuprincipal\menu.h
+
+1727871156 c:\users\micad\onedrive\documentos\projetos em c\pim\pim2-main\pim\gerenciamentodeprodutos\menugereproduto.h
+
+1727876266 c:\users\micad\onedrive\documentos\projetos em c\pim\pim2-main\pim\gerenciamentodevendas\menugerevendas.h
+
+1727876004 c:\users\micad\onedrive\documentos\projetos em c\pim\pim2-main\pim\gerenciamentodefornecedores\menugerefornecedores.h
+
+1727876407 c:\users\micad\onedrive\documentos\projetos em c\pim\pim2-main\pim\gerenciamentodefuncionarios\menugerefuncionarios.h
+
+1727919219 source:c:\users\micael\desktop\projetos em c\pim\pim2-main\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+	"login/menuLogin.h"
+	"menuPrincipal/menu.h"
+	"gerenciamentoDeProdutos/menuGereProduto.h"
+	"gerenciamentoDeVendas/menuGereVendas.h"
+	"gerenciamentoDeFornecedores/menuGereFornecedores.h"
+	"gerenciamentoDeFuncionarios/menuGereFuncionarios.h"
+
+1727919219 c:\users\micael\desktop\projetos em c\pim\pim2-main\pim\login\menulogin.h
+
+1728063098 c:\users\micael\desktop\projetos em c\pim\pim2-main\pim\menuprincipal\menu.h
+
+1727929057 c:\users\micael\desktop\projetos em c\pim\pim2-main\pim\gerenciamentodeprodutos\menugereproduto.h
+
+1727929057 c:\users\micael\desktop\projetos em c\pim\pim2-main\pim\gerenciamentodevendas\menugerevendas.h
+
+1727929033 c:\users\micael\desktop\projetos em c\pim\pim2-main\pim\gerenciamentodefornecedores\menugerefornecedores.h
+
+1727929023 c:\users\micael\desktop\projetos em c\pim\pim2-main\pim\gerenciamentodefuncionarios\menugerefuncionarios.h
+
+1728491850 source:c:\users\micael\desktop\pim2-main\pim2-main\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"login/menuLogin.h"
+	"menuPrincipal/menu.h"
+	"gerenciamentoDeProdutos/menuGereProduto.h"
+	"gerenciamentoDeVendas/menuGereVendas.h"
+	"gerenciamentoDeFornecedores/menuGereFornecedores.h"
+	"gerenciamentoDeFuncionarios/menuGereFuncionarios.h"
+	"gerenciamentoDeFuncionarios/cadastrarFuncionarios.h"
+
+1728491702 c:\users\micael\desktop\pim2-main\pim2-main\pim\login\menulogin.h
+
+1728491695 c:\users\micael\desktop\pim2-main\pim2-main\pim\menuprincipal\menu.h
+
+1728163510 c:\users\micael\desktop\pim2-main\pim2-main\pim\gerenciamentodeprodutos\menugereproduto.h
+
+1728163510 c:\users\micael\desktop\pim2-main\pim2-main\pim\gerenciamentodevendas\menugerevendas.h
+
+1728163510 c:\users\micael\desktop\pim2-main\pim2-main\pim\gerenciamentodefornecedores\menugerefornecedores.h
+
+1728491695 c:\users\micael\desktop\pim2-main\pim2-main\pim\gerenciamentodefuncionarios\menugerefuncionarios.h
+
+1728337267 c:\users\micael\desktop\pim2-main\pim2-main\pim\gerenciamentodefuncionarios\funcionarios.h
+
+1728494234 c:\users\micael\desktop\pim2-main\pim2-main\pim\gerenciamentodefuncionarios\cadastrarfuncionarios.h
+
+1728774593 source:c:\users\micael\downloads\pim2-main (1)\pim2-main\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"login/menuLogin.h"
+	"menuPrincipal/menu.h"
+	"gerenciamentoDeProdutos/menuGereProduto.h"
+	"gerenciamentoDeProdutos/cadastrarProduto.h"
+	"gerenciamentoDeProdutos/editarProduto.h"
+	"gerenciamentoDeProdutos/listarProdutos.h"
+	"gerenciamentoDeVendas/menuGereVendas.h"
+	"gerenciamentoDeVendas/cadastrarVenda.h"
+	"gerenciamentoDeVendas/relatorioVendas.h"
+	"gerenciamentoDeVendas/cancelarVenda.h"
+	"gerenciamentoDeFornecedores/menuGereFornecedores.h"
+	"gerenciamentoDeFornecedores/cadastrarFornecedor.h"
+	"gerenciamentoDeFornecedores/editarFornecedor.h"
+	"gerenciamentoDeFornecedores/listarFornecedores.h"
+	"gerenciamentoDeFuncionarios/menuGereFuncionarios.h"
+	"gerenciamentoDeFuncionarios/cadastrarFuncionarios.h"
+	"gerenciamentoDeFuncionarios/editarFuncionario.h"
+	"gerenciamentoDeFuncionarios/listarFuncionarios.h"
+
+1728773692 c:\users\micael\downloads\pim2-main (1)\pim2-main\pim\login\menulogin.h
+
+1728772813 c:\users\micael\downloads\pim2-main (1)\pim2-main\pim\menuprincipal\menu.h
+
+1728749287 c:\users\micael\downloads\pim2-main (1)\pim2-main\pim\gerenciamentodeprodutos\menugereproduto.h
+
+1728771956 c:\users\micael\downloads\pim2-main (1)\pim2-main\pim\gerenciamentodevendas\menugerevendas.h
+
+1728749287 c:\users\micael\downloads\pim2-main (1)\pim2-main\pim\gerenciamentodefornecedores\menugerefornecedores.h
+
+1728749287 c:\users\micael\downloads\pim2-main (1)\pim2-main\pim\gerenciamentodefuncionarios\menugerefuncionarios.h
+
+1728850287 c:\users\micael\downloads\pim2-main (1)\pim2-main\pim\gerenciamentodefuncionarios\cadastrarfuncionarios.h
+
+1728773349 c:\users\micael\downloads\pim2-main (1)\pim2-main\pim\gerenciamentodevendas\cadastrarvenda.h
+
+1728772291 c:\users\micael\downloads\pim2-main (1)\pim2-main\pim\gerenciamentodevendas\relatoriovendas.h
+
+1728772409 c:\users\micael\downloads\pim2-main (1)\pim2-main\pim\gerenciamentodevendas\cancelarvenda.h
+
+1728774593 c:\users\micael\downloads\pim2-main (1)\pim2-main\pim\gerenciamentodeprodutos\cadastrarproduto.h
+
+1728774593 c:\users\micael\downloads\pim2-main (1)\pim2-main\pim\gerenciamentodeprodutos\editarproduto.h
+
+1728774593 c:\users\micael\downloads\pim2-main (1)\pim2-main\pim\gerenciamentodeprodutos\listarprodutos.h
+
+1728774593 c:\users\micael\downloads\pim2-main (1)\pim2-main\pim\gerenciamentodefornecedores\cadastrarfornecedor.h
+
+1728774593 c:\users\micael\downloads\pim2-main (1)\pim2-main\pim\gerenciamentodefornecedores\editarfornecedor.h
+
+1728774593 c:\users\micael\downloads\pim2-main (1)\pim2-main\pim\gerenciamentodefornecedores\listarfornecedores.h
+
+1728774106 c:\users\micael\downloads\pim2-main (1)\pim2-main\pim\gerenciamentodefuncionarios\editarfuncionario.h
+
+1728774106 c:\users\micael\downloads\pim2-main (1)\pim2-main\pim\gerenciamentodefuncionarios\listarfuncionarios.h
+
+1729970878 source:c:\users\micael\documents\projeto pim\15102024\pim2-main\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<unistd.h>
+	"login/menuLogin.h"
+	"menuPrincipal/menu.h"
+	"gerenciamentoDeProdutos/menuGereProduto.h"
+	"gerenciamentoDeProdutos/cadastrarProduto.h"
+	"gerenciamentoDeProdutos/editarProduto.h"
+	"gerenciamentoDeProdutos/listarProdutos.h"
+	"gerenciamentoDeVendas/menuGereVendas.h"
+	"gerenciamentoDeVendas/cadastrarVenda.h"
+	"gerenciamentoDeVendas/relatorioVendas.h"
+	"gerenciamentoDeVendas/cancelarVenda.h"
+	"gerenciamentoDeFornecedores/menuGereFornecedores.h"
+	"gerenciamentoDeFornecedores/cadastrarFornecedor.h"
+	"gerenciamentoDeFornecedores/editarFornecedor.h"
+	"gerenciamentoDeFornecedores/listarFornecedores.h"
+	"gerenciamentoDeFuncionarios/menuGereFuncionarios.h"
+	"gerenciamentoDeFuncionarios/cadastrarFuncionarios.h"
+	"gerenciamentoDeFuncionarios/editarFuncionario.h"
+	"gerenciamentoDeFuncionarios/listarFuncionarios.h"
+
+1729967985 c:\users\micael\documents\projeto pim\15102024\pim2-main\pim\login\menulogin.h
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<stdlib.h>
+
+1729970878 c:\users\micael\documents\projeto pim\15102024\pim2-main\pim\menuprincipal\menu.h
+
+1729967358 c:\users\micael\documents\projeto pim\15102024\pim2-main\pim\gerenciamentodeprodutos\menugereproduto.h
+
+1729971023 c:\users\micael\documents\projeto pim\15102024\pim2-main\pim\gerenciamentodeprodutos\cadastrarproduto.h
+
+1729966652 c:\users\micael\documents\projeto pim\15102024\pim2-main\pim\gerenciamentodeprodutos\editarproduto.h
+
+1729970878 c:\users\micael\documents\projeto pim\15102024\pim2-main\pim\gerenciamentodeprodutos\listarprodutos.h
+
+1729968023 c:\users\micael\documents\projeto pim\15102024\pim2-main\pim\gerenciamentodevendas\menugerevendas.h
+
+1729966594 c:\users\micael\documents\projeto pim\15102024\pim2-main\pim\gerenciamentodevendas\cadastrarvenda.h
+
+1729966459 c:\users\micael\documents\projeto pim\15102024\pim2-main\pim\gerenciamentodevendas\relatoriovendas.h
+
+1729966510 c:\users\micael\documents\projeto pim\15102024\pim2-main\pim\gerenciamentodevendas\cancelarvenda.h
+
+1729970878 c:\users\micael\documents\projeto pim\15102024\pim2-main\pim\gerenciamentodefornecedores\menugerefornecedores.h
+
+1729970878 c:\users\micael\documents\projeto pim\15102024\pim2-main\pim\gerenciamentodefornecedores\cadastrarfornecedor.h
+
+1729970878 c:\users\micael\documents\projeto pim\15102024\pim2-main\pim\gerenciamentodefornecedores\editarfornecedor.h
+
+1729970878 c:\users\micael\documents\projeto pim\15102024\pim2-main\pim\gerenciamentodefornecedores\listarfornecedores.h
+
+1729970878 c:\users\micael\documents\projeto pim\15102024\pim2-main\pim\gerenciamentodefuncionarios\menugerefuncionarios.h
+
+1729968404 c:\users\micael\documents\projeto pim\15102024\pim2-main\pim\gerenciamentodefuncionarios\cadastrarfuncionarios.h
+
+1729835019 c:\users\micael\documents\projeto pim\15102024\pim2-main\pim\gerenciamentodefuncionarios\editarfuncionario.h
+
+1729835019 c:\users\micael\documents\projeto pim\15102024\pim2-main\pim\gerenciamentodefuncionarios\listarfuncionarios.h
+
+1729702204 c:\users\micael\documents\projeto pim\15102024\pim2-main\pim\gerenciamentodeprodutos\produto.h
+
+1730234096 source:c:\users\micael\documents\projeto pim\29102024\projeto pim\15102024\pim2-main\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<unistd.h>
+	"login/menuLogin.h"
+	"menuPrincipal/menu.h"
+	"gerenciamentoDeProdutos/menuGereProduto.h"
+	"gerenciamentoDeProdutos/cadastrarProduto.h"
+	"gerenciamentoDeProdutos/editarProduto.h"
+	"gerenciamentoDeProdutos/listarProdutos.h"
+	"gerenciamentoDeProdutos/deletarProduto.h"
+	"gerenciamentoDeVendas/menuGereVendas.h"
+	"gerenciamentoDeVendas/cadastrarVenda.h"
+	"gerenciamentoDeVendas/relatorioVendas.h"
+	"gerenciamentoDeVendas/cancelarVenda.h"
+	"gerenciamentoDeFornecedores/menuGereFornecedores.h"
+	"gerenciamentoDeFornecedores/cadastrarFornecedor.h"
+	"gerenciamentoDeFornecedores/editarFornecedor.h"
+	"gerenciamentoDeFornecedores/listarFornecedores.h"
+	"gerenciamentoDeFuncionarios/menuGereFuncionarios.h"
+	"gerenciamentoDeFuncionarios/cadastrarFuncionarios.h"
+	"gerenciamentoDeFuncionarios/editarFuncionario.h"
+	"gerenciamentoDeFuncionarios/listarFuncionarios.h"
+
+1730234096 c:\users\micael\documents\projeto pim\29102024\projeto pim\15102024\pim2-main\pim\login\menulogin.h
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<stdlib.h>
+
+1730234096 c:\users\micael\documents\projeto pim\29102024\projeto pim\15102024\pim2-main\pim\menuprincipal\menu.h
+
+1732047077 c:\users\micael\documents\projeto pim\29102024\projeto pim\15102024\pim2-main\pim\gerenciamentodeprodutos\menugereproduto.h
+
+1730234298 c:\users\micael\documents\projeto pim\29102024\projeto pim\15102024\pim2-main\pim\gerenciamentodeprodutos\cadastrarproduto.h
+
+1730234096 c:\users\micael\documents\projeto pim\29102024\projeto pim\15102024\pim2-main\pim\gerenciamentodeprodutos\editarproduto.h
+
+1730234136 c:\users\micael\documents\projeto pim\29102024\projeto pim\15102024\pim2-main\pim\gerenciamentodeprodutos\listarprodutos.h
+
+1729968023 c:\users\micael\documents\projeto pim\29102024\projeto pim\15102024\pim2-main\pim\gerenciamentodevendas\menugerevendas.h
+
+1729966594 c:\users\micael\documents\projeto pim\29102024\projeto pim\15102024\pim2-main\pim\gerenciamentodevendas\cadastrarvenda.h
+
+1729966459 c:\users\micael\documents\projeto pim\29102024\projeto pim\15102024\pim2-main\pim\gerenciamentodevendas\relatoriovendas.h
+
+1729966510 c:\users\micael\documents\projeto pim\29102024\projeto pim\15102024\pim2-main\pim\gerenciamentodevendas\cancelarvenda.h
+
+1730234096 c:\users\micael\documents\projeto pim\29102024\projeto pim\15102024\pim2-main\pim\gerenciamentodefornecedores\menugerefornecedores.h
+
+1730234096 c:\users\micael\documents\projeto pim\29102024\projeto pim\15102024\pim2-main\pim\gerenciamentodefornecedores\cadastrarfornecedor.h
+
+1730234096 c:\users\micael\documents\projeto pim\29102024\projeto pim\15102024\pim2-main\pim\gerenciamentodefornecedores\editarfornecedor.h
+
+1730234096 c:\users\micael\documents\projeto pim\29102024\projeto pim\15102024\pim2-main\pim\gerenciamentodefornecedores\listarfornecedores.h
+
+1730223986 c:\users\micael\documents\projeto pim\29102024\projeto pim\15102024\pim2-main\pim\gerenciamentodefuncionarios\menugerefuncionarios.h
+
+1729968404 c:\users\micael\documents\projeto pim\29102024\projeto pim\15102024\pim2-main\pim\gerenciamentodefuncionarios\cadastrarfuncionarios.h
+
+1730234096 c:\users\micael\documents\projeto pim\29102024\projeto pim\15102024\pim2-main\pim\gerenciamentodefuncionarios\editarfuncionario.h
+
+1730234096 c:\users\micael\documents\projeto pim\29102024\projeto pim\15102024\pim2-main\pim\gerenciamentodefuncionarios\listarfuncionarios.h
+
+1730234096 c:\users\micael\documents\projeto pim\29102024\projeto pim\15102024\pim2-main\pim\gerenciamentodeprodutos\deletarproduto.h
+
+1732842350 source:c:\users\manum\onedrive\desktop\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<unistd.h>
+	"login/menuLogin.h"
+	"menuPrincipal/menu.h"
+	"gerenciamentoDeProdutos/menuGereProduto.h"
+	"gerenciamentoDeProdutos/cadastrarProduto.h"
+	"gerenciamentoDeProdutos/editarProduto.h"
+	"gerenciamentoDeProdutos/listarProdutos.h"
+	"gerenciamentoDeProdutos/deletarProduto.h"
+	"gerenciamentoDeVendas/menuGereVendas.h"
+	"gerenciamentoDeVendas/cadastrarVenda.h"
+	"gerenciamentoDeVendas/relatorioVendas.h"
+	"gerenciamentoDeVendas/cancelarVenda.h"
+	"gerenciamentoDeFornecedores/menuGereFornecedores.h"
+	"gerenciamentoDeFornecedores/cadastrarFornecedor.h"
+	"gerenciamentoDeFornecedores/editarFornecedor.h"
+	"gerenciamentoDeFornecedores/listarFornecedores.h"
+	"gerenciamentoDeFuncionarios/menuGereFuncionarios.h"
+	"gerenciamentoDeFuncionarios/cadastrarFuncionarios.h"
+	"gerenciamentoDeFuncionarios/editarFuncionario.h"
+	"gerenciamentoDeFuncionarios/listarFuncionarios.h"
+
+1732842350 c:\users\manum\onedrive\desktop\pim\login\menulogin.h
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<stdlib.h>
+
+1732842350 c:\users\manum\onedrive\desktop\pim\menuprincipal\menu.h
+
+1732842350 c:\users\manum\onedrive\desktop\pim\gerenciamentodeprodutos\menugereproduto.h
+
+1732842350 c:\users\manum\onedrive\desktop\pim\gerenciamentodeprodutos\cadastrarproduto.h
+
+1732842350 c:\users\manum\onedrive\desktop\pim\gerenciamentodeprodutos\editarproduto.h
+
+1732842350 c:\users\manum\onedrive\desktop\pim\gerenciamentodeprodutos\listarprodutos.h
+
+1732842350 c:\users\manum\onedrive\desktop\pim\gerenciamentodeprodutos\deletarproduto.h
+
+1732840777 c:\users\manum\onedrive\desktop\pim\gerenciamentodevendas\menugerevendas.h
+
+1732842350 c:\users\manum\onedrive\desktop\pim\gerenciamentodevendas\cadastrarvenda.h
+	"vendas.h"
+
+1732842350 c:\users\manum\onedrive\desktop\pim\gerenciamentodevendas\vendas.h
+
+1732840803 c:\users\manum\onedrive\desktop\pim\gerenciamentodevendas\relatoriovendas.h
+	"vendas.h"
+
+1732842350 c:\users\manum\onedrive\desktop\pim\gerenciamentodevendas\cancelarvenda.h
+	"vendas.h"
+
+1732842350 c:\users\manum\onedrive\desktop\pim\gerenciamentodefornecedores\menugerefornecedores.h
+
+1732846399 c:\users\manum\onedrive\desktop\pim\gerenciamentodefornecedores\cadastrarfornecedor.h
+
+1732842350 c:\users\manum\onedrive\desktop\pim\gerenciamentodefornecedores\editarfornecedor.h
+
+1732842350 c:\users\manum\onedrive\desktop\pim\gerenciamentodefornecedores\listarfornecedores.h
+
+1732842350 c:\users\manum\onedrive\desktop\pim\gerenciamentodefuncionarios\menugerefuncionarios.h
+
+1732842350 c:\users\manum\onedrive\desktop\pim\gerenciamentodefuncionarios\cadastrarfuncionarios.h
+
+1732842350 c:\users\manum\onedrive\desktop\pim\gerenciamentodefuncionarios\editarfuncionario.h
+
+1732842350 c:\users\manum\onedrive\desktop\pim\gerenciamentodefuncionarios\listarfuncionarios.h
+
+1732842350 source:c:\users\manum\onedrive\desktop\pim55\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<unistd.h>
+	"login/menuLogin.h"
+	"menuPrincipal/menu.h"
+	"gerenciamentoDeProdutos/menuGereProduto.h"
+	"gerenciamentoDeProdutos/cadastrarProduto.h"
+	"gerenciamentoDeProdutos/editarProduto.h"
+	"gerenciamentoDeProdutos/listarProdutos.h"
+	"gerenciamentoDeProdutos/deletarProduto.h"
+	"gerenciamentoDeVendas/menuGereVendas.h"
+	"gerenciamentoDeVendas/cadastrarVenda.h"
+	"gerenciamentoDeVendas/relatorioVendas.h"
+	"gerenciamentoDeVendas/cancelarVenda.h"
+	"gerenciamentoDeFornecedores/menuGereFornecedores.h"
+	"gerenciamentoDeFornecedores/cadastrarFornecedor.h"
+	"gerenciamentoDeFornecedores/editarFornecedor.h"
+	"gerenciamentoDeFornecedores/listarFornecedores.h"
+	"gerenciamentoDeFuncionarios/menuGereFuncionarios.h"
+	"gerenciamentoDeFuncionarios/cadastrarFuncionarios.h"
+	"gerenciamentoDeFuncionarios/editarFuncionario.h"
+	"gerenciamentoDeFuncionarios/listarFuncionarios.h"
+
+1732842350 c:\users\manum\onedrive\desktop\pim55\login\menulogin.h
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<stdlib.h>
+
+1732842350 c:\users\manum\onedrive\desktop\pim55\menuprincipal\menu.h
+
+1732842350 c:\users\manum\onedrive\desktop\pim55\gerenciamentodeprodutos\menugereproduto.h
+
+1732842350 c:\users\manum\onedrive\desktop\pim55\gerenciamentodeprodutos\cadastrarproduto.h
+
+1732842350 c:\users\manum\onedrive\desktop\pim55\gerenciamentodeprodutos\editarproduto.h
+
+1732842350 c:\users\manum\onedrive\desktop\pim55\gerenciamentodeprodutos\listarprodutos.h
+
+1732842350 c:\users\manum\onedrive\desktop\pim55\gerenciamentodeprodutos\deletarproduto.h
+
+1732840777 c:\users\manum\onedrive\desktop\pim55\gerenciamentodevendas\menugerevendas.h
+
+1732842350 c:\users\manum\onedrive\desktop\pim55\gerenciamentodevendas\cadastrarvenda.h
+	"vendas.h"
+
+1732842350 c:\users\manum\onedrive\desktop\pim55\gerenciamentodevendas\vendas.h
+
+1732840803 c:\users\manum\onedrive\desktop\pim55\gerenciamentodevendas\relatoriovendas.h
+	"vendas.h"
+
+1732842350 c:\users\manum\onedrive\desktop\pim55\gerenciamentodevendas\cancelarvenda.h
+	"vendas.h"
+
+1732842350 c:\users\manum\onedrive\desktop\pim55\gerenciamentodefornecedores\menugerefornecedores.h
+
+1732846399 c:\users\manum\onedrive\desktop\pim55\gerenciamentodefornecedores\cadastrarfornecedor.h
+
+1732842350 c:\users\manum\onedrive\desktop\pim55\gerenciamentodefornecedores\editarfornecedor.h
+
+1732842350 c:\users\manum\onedrive\desktop\pim55\gerenciamentodefornecedores\listarfornecedores.h
+
+1732842350 c:\users\manum\onedrive\desktop\pim55\gerenciamentodefuncionarios\menugerefuncionarios.h
+
+1732847521 c:\users\manum\onedrive\desktop\pim55\gerenciamentodefuncionarios\cadastrarfuncionarios.h
+
+1732842350 c:\users\manum\onedrive\desktop\pim55\gerenciamentodefuncionarios\editarfuncionario.h
+
+1732842350 c:\users\manum\onedrive\desktop\pim55\gerenciamentodefuncionarios\listarfuncionarios.h
+
+1732842350 source:c:\users\micael\desktop\pim55\pim55\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<unistd.h>
+	"login/menuLogin.h"
+	"menuPrincipal/menu.h"
+	"gerenciamentoDeProdutos/menuGereProduto.h"
+	"gerenciamentoDeProdutos/cadastrarProduto.h"
+	"gerenciamentoDeProdutos/editarProduto.h"
+	"gerenciamentoDeProdutos/listarProdutos.h"
+	"gerenciamentoDeProdutos/deletarProduto.h"
+	"gerenciamentoDeVendas/menuGereVendas.h"
+	"gerenciamentoDeVendas/cadastrarVenda.h"
+	"gerenciamentoDeVendas/relatorioVendas.h"
+	"gerenciamentoDeVendas/cancelarVenda.h"
+	"gerenciamentoDeFornecedores/menuGereFornecedores.h"
+	"gerenciamentoDeFornecedores/cadastrarFornecedor.h"
+	"gerenciamentoDeFornecedores/editarFornecedor.h"
+	"gerenciamentoDeFornecedores/listarFornecedores.h"
+	"gerenciamentoDeFuncionarios/menuGereFuncionarios.h"
+	"gerenciamentoDeFuncionarios/cadastrarFuncionarios.h"
+	"gerenciamentoDeFuncionarios/editarFuncionario.h"
+	"gerenciamentoDeFuncionarios/listarFuncionarios.h"
+
+1732842350 c:\users\micael\desktop\pim55\pim55\login\menulogin.h
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<stdlib.h>
+
+1732842350 c:\users\micael\desktop\pim55\pim55\menuprincipal\menu.h
+
+1732842350 c:\users\micael\desktop\pim55\pim55\gerenciamentodeprodutos\menugereproduto.h
+
+1732853566 c:\users\micael\desktop\pim55\pim55\gerenciamentodeprodutos\cadastrarproduto.h
+
+1732842350 c:\users\micael\desktop\pim55\pim55\gerenciamentodeprodutos\editarproduto.h
+
+1732842350 c:\users\micael\desktop\pim55\pim55\gerenciamentodeprodutos\listarprodutos.h
+
+1732842350 c:\users\micael\desktop\pim55\pim55\gerenciamentodeprodutos\deletarproduto.h
+
+1732840777 c:\users\micael\desktop\pim55\pim55\gerenciamentodevendas\menugerevendas.h
+
+1732842350 c:\users\micael\desktop\pim55\pim55\gerenciamentodevendas\cadastrarvenda.h
+	"vendas.h"
+
+1732842350 c:\users\micael\desktop\pim55\pim55\gerenciamentodevendas\vendas.h
+
+1732840803 c:\users\micael\desktop\pim55\pim55\gerenciamentodevendas\relatoriovendas.h
+	"vendas.h"
+
+1732842350 c:\users\micael\desktop\pim55\pim55\gerenciamentodevendas\cancelarvenda.h
+	"vendas.h"
+
+1732842350 c:\users\micael\desktop\pim55\pim55\gerenciamentodefornecedores\menugerefornecedores.h
+
+1732853566 c:\users\micael\desktop\pim55\pim55\gerenciamentodefornecedores\cadastrarfornecedor.h
+
+1732842350 c:\users\micael\desktop\pim55\pim55\gerenciamentodefornecedores\editarfornecedor.h
+
+1732842350 c:\users\micael\desktop\pim55\pim55\gerenciamentodefornecedores\listarfornecedores.h
+
+1732853566 c:\users\micael\desktop\pim55\pim55\gerenciamentodefuncionarios\menugerefuncionarios.h
+
+1732847521 c:\users\micael\desktop\pim55\pim55\gerenciamentodefuncionarios\cadastrarfuncionarios.h
+
+1732854369 c:\users\micael\desktop\pim55\pim55\gerenciamentodefuncionarios\editarfuncionario.h
+
+1732842350 c:\users\micael\desktop\pim55\pim55\gerenciamentodefuncionarios\listarfuncionarios.h
+

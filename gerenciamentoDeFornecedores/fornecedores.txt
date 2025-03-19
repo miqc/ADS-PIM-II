@@ -1,0 +1,100 @@
+ ID: 1
+ Nome: Pedro Frutas
+ CNPJ: 21.917.183/0001-84
+ Telefone: 12997164472
+
+ ID: 2
+ Nome: Hortifruti Sabor
+ CNPJ: 33.472.155/0001-98
+ Telefone: 12998876543
+
+ ID: 3
+ Nome: Super Frutas
+ CNPJ: 44.982.324/0001-10
+ Telefone: 12995432167
+
+ ID: 4
+ Nome: Frutas da Terra
+ CNPJ: 11.224.423/0001-57
+ Telefone: 12993335544
+
+ ID: 5
+ Nome: Hortifruti Verde
+ CNPJ: 55.366.157/0001-23
+ Telefone: 12995554433
+
+ ID: 6
+ Nome: Frutaria São João
+ CNPJ: 77.888.999/0001-42
+ Telefone: 12993345678
+
+ ID: 7
+ Nome: Casa das Frutas
+ CNPJ: 88.233.149/0001-65
+ Telefone: 12992233445
+
+ ID: 8
+ Nome: Frutalândia
+ CNPJ: 22.345.678/0001-89
+ Telefone: 12994455667
+
+ ID: 9
+ Nome: Frutas e Verduras do Bairro
+ CNPJ: 66.778.999/0001-32
+ Telefone: 12991122334
+
+ ID: 10
+ Nome: Empório Frutas
+ CNPJ: 99.221.334/0001-15
+ Telefone: 12993344556
+
+ ID: 11
+ Nome: Mercado das Frutas
+ CNPJ: 22.567.890/0001-71
+ Telefone: 12992223344
+
+ ID: 12
+ Nome: Frutaria Tropical
+ CNPJ: 11.981.933/0001-67
+ Telefone: 12993344667
+
+ ID: 13
+ Nome: Frutalux
+ CNPJ: 44.299.884/0001-53
+ Telefone: 12998877665
+
+ ID: 14
+ Nome: Frutaria Santa Rita
+ CNPJ: 55.227.911/0001-39
+ Telefone: 12995556677
+
+ ID: 15
+ Nome: Mundo das Frutas
+ CNPJ: 77.531.255/0001-58
+ Telefone: 12997778899
+
+ ID: 16
+ Nome: Sabor Frutas
+ CNPJ: 88.110.299/0001-23
+ Telefone: 12993335577
+
+ ID: 17
+ Nome: Frutária Minas
+ CNPJ: 99.442.244/0001-66
+ Telefone: 12992223388
+
+ ID: 18
+ Nome: Frutaria Brasília
+ CNPJ: 22.123.456/0001-90
+ Telefone: 12994444333
+
+ ID: 19
+ Nome: Mercado Frutal
+ CNPJ: 44.567.890/0001-64
+ Telefone: 12992223366
+
+ ID: 20
+ Nome: Frutas & Verduras
+ CNPJ: 66.908.123/0001-10
+ Telefone: 12993344588
+

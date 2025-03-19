@@ -1,0 +1,162 @@
+ ID: 1
+ Nome: Micael Leal
+ CPF: 23452342381
+ Data de Nascimento: 08/02/2005
+ Telefone: 12997164472
+ Cargo: Caixa
+ Salário: 2000 R$
+
+ ID: 2
+ Nome: João Silva
+ CPF: 12345678901
+ Data de Nascimento: 15/03/1990
+ Telefone: 12998876543
+ Cargo: Gerente
+ Salário: 3500 R$
+
+ ID: 3
+ Nome: Maria Oliveira
+ CPF: 23456789012
+ Data de Nascimento: 25/07/1985
+ Telefone: 12995432167
+ Cargo: Estoquista
+ Salário: 2300 R$
+
+ ID: 4
+ Nome: Carlos Pereira
+ CPF: 34567890123
+ Data de Nascimento: 30/11/1992
+ Telefone: 12993335544
+ Cargo: Atendente
+ Salário: 1800 R$
+
+ ID: 5
+ Nome: Ana Costa
+ CPF: 45678901234
+ Data de Nascimento: 14/01/1988
+ Telefone: 12995554433
+ Cargo: Açougueiro
+ Salário: 2800 R$
+
+ ID: 6
+ Nome: Marcos Santos
+ CPF: 56789012345
+ Data de Nascimento: 05/09/1987
+ Telefone: 12993345678
+ Cargo: Supervisor de Vendas
+ Salário: 3000 R$
+
+ ID: 7
+ Nome: Juliana Almeida
+ CPF: 67890123456
+ Data de Nascimento: 22/02/1995
+ Telefone: 12992233445
+ Cargo: Balconista
+ Salário: 1600 R$
+
+ ID: 8
+ Nome: Ricardo Lima
+ CPF: 78901234567
+ Data de Nascimento: 12/04/1993
+ Telefone: 12994455667
+ Cargo: Supervisor de Hortifruti
+ Salário: 2700 R$
+
+ ID: 9
+ Nome: Laura Fernandes
+ CPF: 89012345678
+ Data de Nascimento: 10/05/1984
+ Telefone: 12991122334
+ Cargo: Gerente de Logística
+ Salário: 3800 R$
+
+ ID: 10
+ Nome: Gabriel Pereira
+ CPF: 90123456789
+ Data de Nascimento: 17/08/1990
+ Telefone: 12993344556
+ Cargo: Atendente
+ Salário: 1900 R$
+
+ ID: 11
+ Nome: Fernanda Oliveira
+ CPF: 01234567890
+ Data de Nascimento: 08/12/1994
+ Telefone: 12992223344
+ Cargo: Caixa
+ Salário: 2000 R$
+
+ ID: 12
+ Nome: Felipe Costa
+ CPF: 12345678901
+ Data de Nascimento: 06/10/1992
+ Telefone: 12993344667
+ Cargo: Açougueiro
+ Salário: 2600 R$
+
+ ID: 13
+ Nome: Roberta Almeida
+ CPF: 23456789012
+ Data de Nascimento: 11/02/1987
+ Telefone: 12998877665
+ Cargo: Supervisor de Vendas
+ Salário: 3200 R$
+
+ ID: 14
+ Nome: João Carlos
+ CPF: 34567890123
+ Data de Nascimento: 21/06/1989
+ Telefone: 12995556677
+ Cargo: Estoquista
+ Salário: 2100 R$
+
+ ID: 15
+ Nome: Larissa Souza
+ CPF: 45678901234
+ Data de Nascimento: 03/04/1991
+ Telefone: 12997778899
+ Cargo: Balconista
+ Salário: 1500 R$
+
+ ID: 16
+ Nome: Vinícius Rocha
+ CPF: 56789012345
+ Data de Nascimento: 17/02/1990
+ Telefone: 12993335577
+ Cargo: Gerente
+ Salário: 3500 R$
+
+ ID: 17
+ Nome: Thaís Oliveira
+ CPF: 67890123456
+ Data de Nascimento: 24/09/1994
+ Telefone: 12992223388
+ Cargo: Caixa
+ Salário: 2000 R$
+
+ ID: 18
+ Nome: Diego Martins
+ CPF: 78901234567
+ Data de Nascimento: 13/05/1986
+ Telefone: 12994444333
+ Cargo: Açougueiro
+ Salário: 2800 R$
+
+ ID: 19
+ Nome: Sofia Mendes
+ CPF: 89012345678
+ Data de Nascimento: 02/12/1993
+ Telefone: 12992223366
+ Cargo: Balconista
+ Salário: 1700 R$
+
+ ID: 20
+ Nome: Micael Leal
+ CPF: 50234238161
+ Data de Nascimento: 08/02/2005
+ Telefone: 12997164472
+ Cargo: Caixa
+ Salário: 1,900 R$
+
+
+

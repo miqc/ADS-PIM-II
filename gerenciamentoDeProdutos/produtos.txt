@@ -1,0 +1,160 @@
+ ID: 1
+ Nome do Produto: Banana
+ Categoria: F
+ Validade: 08/02/2025
+ Preço em KG: 10,00 R$
+ Preço em UN: 2,00 R$
+ Estoque: 50
+
+ ID: 2
+ Nome do Produto: Laranja Lima
+ Categoria: F
+ Validade: 15/02/2025
+ Preço em KG: 12,00 R$
+ Preço em UN: 2,50 R$
+ Estoque: 80
+
+ ID: 3
+ Nome do Produto: Tomate
+ Categoria: L
+ Validade: 10/01/2025
+ Preço em KG: 8,00 R$
+ Preço em UN: 1,80 R$
+ Estoque: 60
+
+ ID: 4
+ Nome do Produto: Cenoura
+ Categoria: L
+ Validade: 25/12/2024
+ Preço em KG: 6,50 R$
+ Preço em UN: 1,50 R$
+ Estoque: 45
+
+ ID: 5
+ Nome do Produto: Abacaxi
+ Categoria: F
+ Validade: 05/03/2025
+ Preço em KG: 7,00 R$
+ Preço em UN: 5,00 R$
+ Estoque: 30
+
+ ID: 6
+ Nome do Produto: Batata Inglesa
+ Categoria: L
+ Validade: 20/12/2024
+ Preço em KG: 5,00 R$
+ Preço em UN: 1,20 R$
+ Estoque: 100
+
+ ID: 7
+ Nome do Produto: Alface
+ Categoria: V
+ Validade: 02/12/2024
+ Preço em KG: 15,00 R$
+ Preço em UN: 3,00 R$
+ Estoque: 25
+
+ ID: 8
+ Nome do Produto: Manga Palmer
+ Categoria: F
+ Validade: 12/01/2025
+ Preço em KG: 10,00 R$
+ Preço em UN: 2,80 R$
+ Estoque: 50
+
+ ID: 9
+ Nome do Produto: Laranja Pera
+ Categoria: F
+ Validade: 18/02/2025
+ Preço em KG: 6,00 R$
+ Preço em UN: 1,50 R$
+ Estoque: 70
+
+ ID: 10
+ Nome do Produto: Limão Taiti
+ Categoria: F
+ Validade: 15/01/2025
+ Preço em KG: 4,00 R$
+ Preço em UN: 1,00 R$
+ Estoque: 40
+
+ ID: 11
+ Nome do Produto: Melancia
+ Categoria: F
+ Validade: 20/03/2025
+ Preço em KG: 3,00 R$
+ Preço em UN: 12,00 R$
+ Estoque: 25
+
+ ID: 12
+ Nome do Produto: Pepino
+ Categoria: L
+ Validade: 10/01/2025
+ Preço em KG: 5,50 R$
+ Preço em UN: 1,30 R$
+ Estoque: 55
+
+ ID: 13
+ Nome do Produto: Morango
+ Categoria: F
+ Validade: 05/01/2025
+ Preço em KG: 18,00 R$
+ Preço em UN: 6,00 R$
+ Estoque: 20
+
+ ID: 14
+ Nome do Produto: Cebola Roxa
+ Categoria: L
+ Validade: 18/01/2025
+ Preço em KG: 7,50 R$
+ Preço em UN: 2,00 R$
+ Estoque: 50
+
+ ID: 15
+ Nome do Produto: Uva Thompson
+ Categoria: F
+ Validade: 28/02/2025
+ Preço em KG: 16,00 R$
+ Preço em UN: 6,00 R$
+ Estoque: 35
+
+ ID: 16
+ Nome do Produto: Abobora
+ Categoria: L
+ Validade: 15/03/2025
+ Preço em KG: 4,50 R$
+ Preço em UN: 8,00 R$
+ Estoque: 30
+
+ ID: 17
+ Nome do Produto: Pimentão Vermelho
+ Categoria: L
+ Validade: 20/12/2024
+ Preço em KG: 10,00 R$
+ Preço em UN: 2,20 R$
+ Estoque: 40
+
+ ID: 18
+ Nome do Produto: Brócolis
+ Categoria: V
+ Validade: 12/12/2024
+ Preço em KG: 14,00 R$
+ Preço em UN: 4,00 R$
+ Estoque: 20
+
+ ID: 19
+ Nome do Produto: Maracujá
+ Categoria: F
+ Validade: 05/02/2025
+ Preço em KG: 7,50 R$
+ Preço em UN: 1,80 R$
+ Estoque: 60
+
+ ID: 20
+ Nome do Produto: Coco Verde
+ Categoria: F
+ Validade: 10/03/2025
+ Preço em KG: 5,00 R$
+ Preço em UN: 4,00 R$
+ Estoque: 30
+

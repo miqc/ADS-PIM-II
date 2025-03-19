@@ -1,0 +1,52 @@
+---------- Nota Fiscal ----------
+VENDA CANCELADA!
+Produto: Banana Prata
+Tipo de venda: kg
+Peso: 0,55kg
+Preço por kg: R$11,00
+Valor do item: R$6,00
+
+Produto: Alface Crespa
+Tipo de venda: un
+Quantidade: 2
+Preço por unidade: R$1,98
+Valor do item: R$3,96
+
+Valor Total da Compra: R$9,95
+Forma de Pagamento: Débito
+---------------------------------
+
+---------- Nota Fiscal ----------
+Data e Hora: 29/11/2024 00:14:46
+Produto: laranja lima
+Tipo de venda: un
+Quantidade: 6
+Preço por unidade: R$0,10
+Valor do item: R$0,60
+
+Valor Total da Compra: R$0,60
+Forma de Pagamento: Dinheiro
+Valor Recebido: R$5,00
+Troco: R$4,40
+---------------------------------
+
+---------- Nota Fiscal ----------
+VENDA CANCELADA!
+Produto: Banana
+Tipo de venda: un
+Quantidade: 1
+Preço por unidade: R$9,00
+Valor do item: R$9,00
+
+Produto: Amora
+Tipo de venda: kg
+Peso: 1,75kg
+Preço por kg: R$10,00
+Valor do item: R$17,50
+
+Valor Total da Compra: R$26,50
+Forma de Pagamento: Dinheiro
+Valor Recebido: R$30,00
+Troco: R$3,50
+---------------------------------
+
