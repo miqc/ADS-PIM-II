@@ -3,7 +3,17 @@
 
 <p align="center">Esse é um projeto acadêmico focado no desenvolvimento de um sistema composto por múltiplos programas para otimizar as operações de um hortifruti.</p>
 
-##  📌 Sobre o Projeto
+<p align="center">
+ <a href="#sobre-o-projeto">Sobre</a> •
+   <a href="#funcionalidades">Funcionalidades</a> •
+   <a href="#tecnologias-utilizadas">Tecnologias</a> •
+   <a href="#como-executar">Rodando a aplicação</a> •
+   <a href="#autores">Autores</a>
+</p>
+
+---
+
+## Sobre o Projeto
 
 Este sistema foi desenvolvido como parte do Projeto Integrado Multidisciplinar II (PIM II) do curso de Análise e Desenvolvimento de Sistemas da UNIP em 2024. Ele tem como objetivo otimizar a gestão de um hortifruti, permitindo o cadastro, controle de estoque e vendas de produtos de forma eficiente.
 
