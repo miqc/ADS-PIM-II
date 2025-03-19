@@ -19,13 +19,13 @@ Este sistema foi desenvolvido como parte do Projeto Integrado Multidisciplinar I
 
 ##  Funcionalidades
 
-- Cadastro de produtos
+- [x] Cadastro de produtos
 
-- Listagem de produtos cadastrados
+- [x] Listagem de produtos cadastrados
 
-- Controle de vendas
+- [x] Controle de vendas
 
-- Relatórios de vendas e estoque
+- [x] Relatórios de vendas e estoque
 
 ##  Tecnologias Utilizadas
 
