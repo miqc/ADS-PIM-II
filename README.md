@@ -1,7 +1,7 @@
 <h1 align="center">Sistema de Gestão de Hortifruti</h1>
 
 
-<p align="center">Esse é um projeto acadêmico focado no desenvolvimento de um sistema composto por múltiplos programas para otimizar as operações de um hortifruti.</p>
+<p align="center">Esse é um projeto acadêmico focado no desenvolvimento de um sistema para otimizar as operações de um hortifruti.</p>
 
 <p align="center">
  <a href="#sobre-o-projeto">Sobre</a> •
