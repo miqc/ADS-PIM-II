@@ -62,13 +62,24 @@ secreta
 
 ## Estrutura do Projeto
 
-``menuPrincipal/`` → Arquivos do menu principal
+```
+ADS-PIM-II/
+│── gerenciamentoDeFornecedores/   # Módulo de gestão de fornecedores  
+│── gerenciamentoDeFuncionarios/   # Módulo de gestão de funcionários  
+│── gerenciamentoDeProdutos/       # Módulo de gestão de produtos  
+│── gerenciamentoDeVendas/         # Módulo de gestão de vendas  
+│── login/                         # Módulo de login e autenticação  
+│── menuPrincipal/                 # Estrutura do menu principal  
+│── obj/Debug/                     # Arquivos de compilação e debug  
+│── output/                        # Saída gerada pelo sistema  
+│── README.md                      # Documentação do projeto  
+│── main.c                         # Arquivo principal do sistema  
+│── main.exe                       # Executável gerado  
+│── pim.cbp                        # Arquivo de configuração do Code::Blocks  
+│── pim.depend                     # Dependências do projeto  
+│── pim.layout                     # Layout do projeto  
+```
 
-``estoque/`` → Gerenciamento de estoque
-
-``vendas/`` → Registro de vendas
-
-``README.md`` → Documentação do projeto
 
 ## Autores
 
