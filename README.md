@@ -37,8 +37,8 @@ Este sistema foi desenvolvido como parte do Projeto Integrado Multidisciplinar I
 1. **Clone o repositório:**
    
 ```
-git clone https://github.com/miqc/ads-pim-ii.git
-cd ads-pim-ii
+git clone https://github.com/miqc/ads-pim-2.git
+cd ads-pim-2
 ```
 
 2. **Compile o código:**
